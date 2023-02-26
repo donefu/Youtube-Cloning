@@ -1,0 +1,59 @@
+.search-box {
+    width:100%;
+    margin-bottom: 10px;
+}
+.search-bar {
+    display: block;
+    margin: 0 auto;
+    width: 30%;
+    border-radius: 10px;
+    border: none;
+    border-width: 1px;
+    border-style: solid;
+}
+.content {
+    width:300px;
+    border-color: red;
+
+    border-style: solid;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15px;
+}
+.content-img {
+    width:300px;
+    display: inline-block;
+    vertical-align: top;
+}
+.content-title {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 14px;
+    font-weight: 500px;
+}
+.content-author {
+    margin-top: 5px;
+    margin-bottom: 0px;
+    font-size: 12px;
+}
+.channel {
+    margin-top: 10px;
+}
+.channel-profile {
+    display: inline-block;
+    width: 50px;
+    vertical-align: top;
+}
+.channel-info {
+    display: inline-block;
+    width: 200px;
+}
+.profile-picture {
+    width:50px;
+    border-radius: 2000px;
+ 
+}
+.box {
+    margin-bottom: 0px;
+}
+
